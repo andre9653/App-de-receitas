@@ -1,0 +1,47 @@
+.card-of-recipe {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-size: 3em;
+  height: 100vh;
+  justify-content: center;
+  scroll-snap-align: center;
+}
+
+.headerFoodRecipes {
+  align-items: center;
+  display: flex;
+}
+
+.container-of-cards {
+  height: 100vh;
+  overflow: auto;
+  scroll-snap-type: y mandatory;
+}
+
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+}
+
+.buttonCategory {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.buttonCategory button {
+  margin: 5px;
+}
+
+.header .button-search {
+  background-color: rgba(240, 248, 255, 0.082);
+  border: 0;
+}
+
+.search-form {
+  display: flex;
+  flex-wrap: wrap;
+  grid-area: auto;
+}

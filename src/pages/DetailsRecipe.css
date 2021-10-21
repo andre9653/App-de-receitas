@@ -1,0 +1,16 @@
+.main-image {
+  height: 200px;
+  width: 200px;
+}
+
+.start-recipe-btn {
+  background-color: #28739e;
+  border: 0;
+  bottom: 0;
+  color: white;
+  padding: 8px 10px;
+  position: fixed;
+  right: 0;
+  width: 100%;
+  z-index: 1000;
+}

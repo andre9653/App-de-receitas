@@ -1,0 +1,11 @@
+.login-name-input {
+  display: flex;
+  flex-direction: column;
+}
+
+.login {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+

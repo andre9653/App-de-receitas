@@ -1,0 +1,22 @@
+body {
+  width: 360px;
+}
+
+.checkbox {
+  margin: -2px 2px;
+}
+
+.checkedIngredient {
+  background-color: white;
+  color: black;
+  text-decoration: line-through;
+}
+
+.uncheckedIngredient {
+  background-color: white;
+  color: black;
+}
+
+.instructions {
+  width: 360px;
+}
