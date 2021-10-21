@@ -3,7 +3,7 @@
 # Boas vindas ao repositório do projeto de Receitas!
 
 
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
+Projeto feito em grupo com Alex Corrêa, Thiago Souza, Lucas Haine e Kevin Willian.
 
 ---
 
